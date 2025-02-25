@@ -69,9 +69,15 @@ streamlit run app.py
 
 ---
 
-## 📜 License
+## Screeshots
 
-This project is open-source and available for modifications.
+<img width="1440" alt="Screenshot 2025-02-25 at 3 27 29 PM" src="https://github.com/user-attachments/assets/4f466516-cbd3-4298-bbf2-ef5335a87d8b" />
+
+<img width="1440" alt="Screenshot 2025-02-25 at 3 27 20 PM" src="https://github.com/user-attachments/assets/9d9b8dae-f0e2-46a6-ac44-f3139789f0ae" />
+
+<img width="1440" alt="Screenshot 2025-02-25 at 3 28 27 PM" src="https://github.com/user-attachments/assets/aafd5669-e990-414f-9842-180b2496696d" />
+
+<img width="1440" alt="Screenshot 2025-02-25 at 3 29 14 PM" src="https://github.com/user-attachments/assets/2f32c725-746f-409c-811a-18a95e6017fe" />
 
 ---
 
