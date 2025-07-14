@@ -81,4 +81,4 @@ streamlit run app.py
 
 ---
 
-🔥 **Happy Coding!** 🚀
+'
